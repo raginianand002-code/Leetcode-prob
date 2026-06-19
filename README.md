@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0027-remove-element) |
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0027-remove-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
