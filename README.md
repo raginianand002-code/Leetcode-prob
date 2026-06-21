@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
+| [2469-convert-the-temperature](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2469-convert-the-temperature) |
 ## Counting
 |  |
 | ------- |
