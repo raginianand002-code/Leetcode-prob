@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0217-contains-duplicate) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
