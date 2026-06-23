@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2469-convert-the-temperature) |
