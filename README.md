@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1480-running-sum-of-1d-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
