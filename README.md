@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Math
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Two Pointers
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0278-first-bad-version) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
