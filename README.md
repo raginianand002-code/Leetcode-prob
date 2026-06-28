@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0387-first-unique-character-in-a-string) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0412-fizz-buzz) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
