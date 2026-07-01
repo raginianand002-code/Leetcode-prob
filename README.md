@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0412-fizz-buzz) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
