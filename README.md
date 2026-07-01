@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2418-sort-the-people](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2418-sort-the-people](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0977-squares-of-a-sorted-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2418-sort-the-people](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2418-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
