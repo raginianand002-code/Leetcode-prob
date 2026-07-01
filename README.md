@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0371-sum-of-two-integers) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0345-reverse-vowels-of-a-string) |
