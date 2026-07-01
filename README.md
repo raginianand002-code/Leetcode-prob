@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0268-missing-number) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
