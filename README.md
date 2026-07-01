@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0371-sum-of-two-integers) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0287-find-the-duplicate-number) |
