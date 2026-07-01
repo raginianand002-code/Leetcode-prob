@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1480-running-sum-of-1d-array) |
