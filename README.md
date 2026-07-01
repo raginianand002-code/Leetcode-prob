@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0136-single-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0042-trapping-rain-water) |
+| [0119-pascals-triangle-ii](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String
