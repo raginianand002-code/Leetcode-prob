@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
