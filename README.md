@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
