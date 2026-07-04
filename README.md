@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0896-monotonic-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0523-continuous-subarray-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2418-sort-the-people](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2418-sort-the-people) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0523-continuous-subarray-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1480-running-sum-of-1d-array) |
 ## Interactive
 |  |
