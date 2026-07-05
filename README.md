@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0896-monotonic-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0977-squares-of-a-sorted-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1480-running-sum-of-1d-array) |
 ## Interactive
 |  |
@@ -208,4 +210,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0713-subarray-product-less-than-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
