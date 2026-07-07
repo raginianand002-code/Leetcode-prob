@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0867-transpose-matrix) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0713-subarray-product-less-than-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
