@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0896-monotonic-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0977-squares-of-a-sorted-array) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2418-sort-the-people](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2418-sort-the-people) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/raginianand002-code/Leetcode-prob/tree/master/0387-first-unique-character-in-a-string) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1512-number-of-good-pairs](https://github.com/raginianand002-code/Leetcode-prob/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/raginianand002-code/Leetcode-prob/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Two Pointers
